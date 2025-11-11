@@ -31,7 +31,7 @@ dependencies:
   # flutter_polyline_points: ^2.0.0
   
   # Image Picker
-  image_picker: ^1.0.4
+  # image_picker: ^1.0.4
 
 flutter:
   uses-material-design: true
