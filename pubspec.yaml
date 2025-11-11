@@ -25,10 +25,10 @@ dependencies:
   intl: any
   
   # Maps & Location
-  google_maps_flutter: ^2.5.0
-  geolocator: ^9.0.2
-  geocoding: ^2.1.0
-  flutter_polyline_points: ^2.0.0
+  # google_maps_flutter: ^2.5.0
+  # geolocator: ^9.0.2
+  # geocoding: ^2.1.0
+  # flutter_polyline_points: ^2.0.0
   
   # Image Picker
   image_picker: ^1.0.4
